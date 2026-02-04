@@ -1,0 +1,5 @@
+Task 5 - Weather App
+
+Built a dynamic weather web application using OpenWeather API to fetch live weather data based on the user’s geolocation or a user-entered city name. The app displays real-time temperature, weather conditions, humidity, clouds and wind speed with a clean and user-friendly interface.
+
+video link : https://youtu.be/PIRyI9ILg4I?si=FAb6GIH4gzqf8i73
